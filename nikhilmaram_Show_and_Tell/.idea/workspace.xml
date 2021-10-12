@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38368bee-5374-4b8e-b191-a5b97101c1c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/nikhilmaram_Show_and_Tell.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baseModel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagenet_classes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/results/1_result.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/results/2_result.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/results/3_result.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/coco/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/coco/coco.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/coco/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/coco/pycocoevalcap/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/coco/pycocoevalcap/bleu/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/coco/pycocoevalcap/bleu/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/coco/pycocoevalcap/bleu/bleu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/coco/pycocoevalcap/bleu/bleu_scorer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/coco/pycocoevalcap/bleu/bleu_scorer.py.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/coco/pycocoevalcap/eval.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/coco/pycocoevalcap/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/coco/pycocoevalcap/tokenizer/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/coco/pycocoevalcap/tokenizer/ptbtokenizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/coco/pycocoevalcap/tokenizer/stanford-corenlp-3.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/coco/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/ilsvrc_2012_mean.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/nn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/vocabulary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/val/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tf_show_and_tell/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tf_show_and_tell/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tf_show_and_tell/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tf_show_and_tell/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tf_show_and_tell/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tf_show_and_tell/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tf_show_and_tell/.idea/tf_show_and_tell.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tf_show_and_tell/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tf_show_and_tell/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tf_show_and_tell/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tf_show_and_tell/acoustic-guitar-player.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tf_show_and_tell/cnn_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tf_show_and_tell/ipython_demo.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tf_show_and_tell/ixtoword.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tf_show_and_tell/make_flickr_dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tf_show_and_tell/model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tf_show_and_tell/result.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1zP4yj0H25N9otwghl7TgzOr25E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../show-(attend)-and tell" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38368bee-5374-4b8e-b191-a5b97101c1c2" name="Default Changelist" comment="" />
+      <created>1634036645523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634036645523</updated>
+      <workItem from="1634036647047" duration="227000" />
+      <workItem from="1634036889360" duration="777000" />
+      <workItem from="1634037957470" duration="1410000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
