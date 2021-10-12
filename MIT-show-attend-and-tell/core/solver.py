@@ -4,7 +4,7 @@ import skimage.transform
 import numpy as np
 import time
 import os
-import cPickle as pickle
+import _pickle as pickle
 from scipy import ndimage
 from utils import *
 from bleu import evaluate

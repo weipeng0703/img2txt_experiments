@@ -1,4 +1,5 @@
-import cPickle as pickle
+# import cPickle as pickle    #  在python3.X中，这个包已被别的包替换，使用以下语句即可：
+import _pickle as pickle
 import os
 import sys
 sys.path.append('../coco-caption')
