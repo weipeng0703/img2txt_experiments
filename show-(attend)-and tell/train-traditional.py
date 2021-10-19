@@ -13,6 +13,7 @@ from datasets import *
 from utils import *
 from nltk.translate.bleu_score import corpus_bleu
 
+
 # Data parameters
 data_folder = './data'  # folder with data files saved by create_input_files.py
 data_name = 'coco_5_cap_per_img_5_min_word_freq'  # base name shared by data files
@@ -21,7 +22,7 @@ data_name = 'coco_5_cap_per_img_5_min_word_freq'  # base name shared by data fil
 emb_dim = 512  # dimension of word embeddings
 decoder_dim = 512  # dimension of decoder RNN
 dropout = 0.5
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")  # sets device for model and PyTorch tensors
+device = torch.device("cuda:0,1" if torch.cuda.is_available() else "cpu")  # sets device for model and PyTorch tensors
 
 # Training parameters
 start_epoch = 0

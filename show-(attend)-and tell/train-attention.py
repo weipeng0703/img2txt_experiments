@@ -12,6 +12,7 @@ from datasets import *
 from utils import *
 from nltk.translate.bleu_score import corpus_bleu
 
+
 # Data parameters
 data_folder = './data'  # folder with data files saved by create_input_files.py
 data_name = 'coco_5_cap_per_img_5_min_word_freq'  # base name shared by data files

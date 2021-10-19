@@ -1,0 +1,10 @@
+# Project-related
+checkpoints
+/data/
+pycocotools/
+pycocoevalcap/
+
+# PYTHON
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
