@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="vpeng@125.223.123.45:22" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
       <paths name="root@183.129.171.130:6483">
         <serverdata>
@@ -9,17 +9,10 @@
           </mappings>
         </serverdata>
       </paths>
-      <paths name="root@192.168.88.97:22">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/home/vpeng/img2txt/jupyter2python" local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
       <paths name="vpeng@125.223.123.45:22">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/home/vpeng/img2txt/jupyter2python" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
@@ -38,5 +31,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
